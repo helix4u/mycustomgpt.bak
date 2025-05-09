@@ -1,2 +1,2 @@
 # mycustomgpt.bak
-the context and instructions i use. needs cleaning up. you can use if you want. idc. just dont be evil n shit.
+the context and instructions i use. needs cleaning up. you can use if you want. idc. just dont be evil n shit. yes, this walks past most guardrails, because most guardrails don't actually exist. and yes, the reasoning models will give a lot of false redacted answers, because they have toxicity filtering that doesnt handle honest and blunt vocab. things like swears and phrases like "burn it all down" all add up to tip the score and trigger a redaction. it sucks. openai should fix it. anyway...
